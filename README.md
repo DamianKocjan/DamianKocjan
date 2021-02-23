@@ -24,6 +24,36 @@ Here are some ideas to get you started:
   <br />
   <p align="center">
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 25 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Python                   7 hrs 46 mins       ███████████████████░░░░░░   75.6% 
+TypeScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+
+🔥 Editors: 
+VS Code                  10 hrs 16 mins      █████████████████████████   100.0%
+
+```
+
+
+<!--END_SECTION:waka-->
   </p>
 </p>
