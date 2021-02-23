@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">My stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianKocjan&layout=compact" width="400" alt="langs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=DamianKocjan&count_private=true&show_icons=true" width="400" alt="my stats" />
+  <br />
+  <p align="center">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </p>
+</p>
