@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">My stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianKocjan&layout=compact" width="400" alt="langs" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=DamianKocjan&count_private=true&show_icons=true" width="400" alt="my stats" />
-  <br />
-  <p align="center">
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -56,5 +51,7 @@ Sublime Text             3 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-  </p>
 </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianKocjan&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="langs" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DamianKocjan&count_private=true&show_icons=true&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="my stats" />
