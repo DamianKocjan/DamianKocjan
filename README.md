@@ -19,7 +19,38 @@ Here are some ideas to get you started:
 
 <p align="center">
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 43 Contributions in the Year 2021
+ > 
+> 📦 0 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Python                   2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   38.5% 
+PHP                      2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   34.98% 
+JavaScript               1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82% 
+TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14%
+
+🔥 Editors: 
+VS Code                  6 hrs 18 mins       ████████████████████████░   98.88% 
+Sublime Text             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+
+```
+
+
+<!--END_SECTION:waka-->
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DamianKocjan&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
