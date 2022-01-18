@@ -21,13 +21,13 @@ Here are some ideas to get you started:
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 4 Contributions in the Year 2022
  > 
-> 📦 24.0 kB Used in Github's Storage 
+> 📦 24.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
