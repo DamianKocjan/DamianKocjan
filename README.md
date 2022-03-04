@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               56 mins             ███████████████████░░░░░░   75.62% 
+CSS                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
+HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 14 mins        █████████████████████████   100.0%
 
 ```
 
