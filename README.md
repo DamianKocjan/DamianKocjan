@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 🏆 43 Contributions in the Year 2022
  > 
-> 📦 25.6 kB Used in Github's Storage 
+> 📦 26.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,14 +37,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-HTML                     59 mins             █████████████████████░░░░   84.25% 
-PHP                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
