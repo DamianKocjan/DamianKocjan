@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 🏆 4 Contributions in the Year 2023
  > 
-> 📦 46.0 kB Used in Github's Storage 
+> 📦 46.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Rust                     7 hrs 32 mins       █████████████████████████   99.87% 
+Rust                     7 hrs 50 mins       █████████████████████████   99.87% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-VS Code                  7 hrs 33 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
