@@ -27,9 +27,9 @@ Here are some ideas to get you started:
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 16 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        █████████████████████░░░░   84.4% 
-JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.6%
+TypeScript               49 mins             ██████████████████░░░░░░░   75.31% 
+JSON                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69%
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.0%
+VS Code                  1 hr 5 mins         █████████████████████████   100.0%
 
 ```
 
