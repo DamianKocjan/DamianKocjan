@@ -37,11 +37,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               57 mins             ████████████████████████░   95.86% 
-TSQL                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
