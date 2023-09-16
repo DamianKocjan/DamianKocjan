@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 159 Contributions in the Year 2023
+> 🏆 161 Contributions in the Year 2023
  > 
 > 📦 49.3 kB Used in Github's Storage 
  > 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
