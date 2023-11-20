@@ -37,12 +37,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-Rust                     1 hr 39 mins        ████████████████████████░   96.09% 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.8% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
