@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 > 🏆 0 Contributions in the Year 2024
  > 
-> 📦 49.3 kB Used in Github's Storage 
+> 📦 51.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
