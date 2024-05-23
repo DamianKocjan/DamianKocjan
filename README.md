@@ -37,10 +37,11 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               12 mins             ████████████████████░░░░░   82.7% 
+Rust                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  15 mins             █████████████████████████   100.0%
 
 ```
 
