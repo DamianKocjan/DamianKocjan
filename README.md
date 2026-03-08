@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               10 hrs 24 mins      ████████████████████████░   96.11% 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+TypeScript               9 hrs 36 mins       ██████████████████████░░░   90.12% 
+Rust                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
 🔥 Editors: 
-VS Code                  10 hrs 49 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
