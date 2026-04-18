@@ -21,15 +21,15 @@ Here are some ideas to get you started:
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 321 Contributions in the Year 2026
+> 🏆 328 Contributions in the Year 2026
  > 
-> 📦 196.5 kB Used in Github's Storage 
+> 📦 196.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 23 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       ██████████████████████░░░   87.66% 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+TypeScript               12 hrs 11 mins      ████████████████████░░░░░   79.74% 
+JavaScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.01% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
 
 🔥 Editors: 
-VS Code                  10 hrs 37 mins      ████████████████████████░   99.01% 
-Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+VS Code                  15 hrs 11 mins      ████████████████████████░   99.3% 
+Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 ```
 
