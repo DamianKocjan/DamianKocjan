@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 🏆 391 Contributions in the Year 2026
  > 
-> 📦 196.5 kB Used in Github's Storage 
+> 📦 196.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,14 +37,13 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               14 hrs 9 mins       █████████████████████░░░░   86.02% 
-JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+TypeScript               16 hrs 38 mins      ████████████████████░░░░░   81.81% 
+JavaScript               3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  16 hrs 27 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
