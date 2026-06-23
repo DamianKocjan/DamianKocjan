@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 > 🏆 404 Contributions in the Year 2026
  > 
-> 📦 197.0 kB Used in Github's Storage 
+> 📦 197.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               17 hrs 7 mins       █████████████████████░░░░   86.48% 
-Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74% 
-PowerShell               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+TypeScript               16 hrs 41 mins      █████████████████████░░░░   86.77% 
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+JavaScript               36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
+PowerShell               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
 
 🔥 Editors: 
-VS Code                  17 hrs 57 mins      ██████████████████████░░░   90.67% 
-Antigravity Desktop      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.33%
+VS Code                  17 hrs 21 mins      ██████████████████████░░░   90.28% 
+Antigravity Desktop      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.72%
 
 ```
 
