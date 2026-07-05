@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               26 hrs 32 mins      █████████████████████░░░░   83.63% 
-JSON                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.24% 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
+TypeScript               25 hrs 9 mins       ████████████████████░░░░░   83.06% 
+JSON                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.75% 
+JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
 
 🔥 Editors: 
-VS Code                  25 hrs 28 mins      ████████████████████░░░░░   80.28% 
-Antigravity Desktop      5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Copilot CLI              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+VS Code                  24 hrs 9 mins       ████████████████████░░░░░   79.73% 
+Antigravity Desktop      5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
+Copilot CLI              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 ```
 
