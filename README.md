@@ -21,9 +21,9 @@ Here are some ideas to get you started:
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 609 Contributions in the Year 2026
+> 🏆 619 Contributions in the Year 2026
  > 
-> 📦 197.2 kB Used in Github's Storage 
+> 📦 197.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               15 hrs 52 mins      ███████████████░░░░░░░░░░   61.78% 
-JavaScript               4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
-JSON                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
-Text                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
-Markdown                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
+TypeScript               17 hrs 59 mins      █████████████████░░░░░░░░   69.43% 
+JavaScript               3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
+JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
+Text                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.34% 
+Markdown                 45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
 
 🔥 Editors: 
-VS Code                  21 hrs 53 mins      █████████████████████░░░░   85.18% 
-Antigravity Desktop      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
-Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
+VS Code                  22 hrs 16 mins      █████████████████████░░░░   85.95% 
+Antigravity Desktop      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
+Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 ```
 
