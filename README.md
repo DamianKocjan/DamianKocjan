@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               4 hrs 40 mins       ███████████████████░░░░░░   76.02% 
-C++                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.77% 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.69%
+TypeScript               4 hrs 40 mins       ████████████████████░░░░░   83.05% 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.4% 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
+C++                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       ███████████████████░░░░░░   78.74% 
-Antigravity Desktop      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26%
+VS Code                  4 hrs 50 mins       █████████████████████░░░░   86.02% 
+Antigravity Desktop      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98%
 
 ```
 
