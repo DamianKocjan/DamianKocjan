@@ -21,9 +21,9 @@ Here are some ideas to get you started:
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 699 Contributions in the Year 2026
+> 🏆 702 Contributions in the Year 2026
  > 
-> 📦 198.0 kB Used in Github's Storage 
+> 📦 198.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               3 hrs 43 mins       ███████████████████░░░░░░   76.73% 
-CSS                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+TypeScript               7 hrs 42 mins       ██████████████████░░░░░░░   73.52% 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.83% 
+CSS                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       ███████████████████░░░░░░   77.93% 
-Antigravity Desktop      1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   22.07%
+VS Code                  8 hrs 37 mins       ████████████████████░░░░░   82.31% 
+Antigravity Desktop      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69%
 
 ```
 
