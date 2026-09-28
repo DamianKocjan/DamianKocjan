@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 812 Contributions in the Year 2026
+> 🏆 815 Contributions in the Year 2026
  > 
 > 📦 199.2 kB Used in Github's Storage 
  > 
@@ -37,13 +37,10 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Europe/Warsaw
 
 💬 Programming Languages: 
-TypeScript               6 hrs 21 mins       ████████████████████████░   97.36% 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       ████████████░░░░░░░░░░░░░   50.11% 
-Antigravity Desktop      3 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.89%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 ```
 
